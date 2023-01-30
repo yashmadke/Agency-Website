@@ -65,6 +65,8 @@ section.home {
     font-size: 2rem;
     font-weight: 700;
     z-index: 20;
+    text-decoration: none;
+    color: #111;
 }
 
 
@@ -143,12 +145,6 @@ section.home {
 
 .navigation .social-bar a {
     display: inline-block;
-    transform: scale(0.5);
-}
-
-.navigation .email-icon {
-    position: absolute;
-    bottom: 20px;
     transform: scale(0.5);
 }
 
